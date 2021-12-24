@@ -19,7 +19,7 @@ const CurrencyConvertor = () => {
             params: {from_currency: chosenPrimaryCurrency, function: 'CURRENCY_EXCHANGE_RATE', to_currency: chosenSecondaryCurrency},
             headers: {
                 'x-rapidapi-host': 'alpha-vantage.p.rapidapi.com',
-                'x-rapidapi-key': '2cb0a55d57msh85bf1ccdaa49d80p1c030cjsnac60e2e01572'
+                'x-rapidapi-key': process.env.REACT_APP_RAPID_API_KEY
             }
         };
 
