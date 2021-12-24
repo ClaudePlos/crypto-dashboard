@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Claude:
+
+https://rapidapi.com/alphavantage/api/alpha-vantage - converter amount from example: BTC to USD
+https://rapidapi.com/DIlyanBarbov/api/crypto-news-live/ - articles about crypto
